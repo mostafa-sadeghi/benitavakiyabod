@@ -45,10 +45,17 @@ another_list = [1, 2, 3, [4, 5]]
 # print(another_list[1])
 # print(another_list[2])
 # print(another_list[3])
-print("we want to print number 4 and number 5")
+# print("we want to print number 4 and number 5")
 
-print(another_list[3][0])
-print(another_list[3][1])
+# print(another_list[3][0])
+# print(another_list[3][1])
 
 # exercise 2   برنامه ای بنویسید که حاصل جمع اعداد موجود در لیست زیر ر امحاسبه نماید و پرینت کند
-somrthing = [1, 2, 3, [2, 2], [3, 6, 8]]
+# somrthing = [1, 2, 3, [2, 2], [3, 6, 8]]
+
+
+# str1 = '@'
+# print(str1 * 6)
+
+# list1 = ['a', 'b', 'c']
+# print(list1 * 8)
