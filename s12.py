@@ -8,15 +8,20 @@
 # 3 4 7 -1 0 9 99 103
 # with for loop
 
-total = 0
-for num in range(1000,1_000_001):
-    total = total + num
+# total = 0
+# for num in range(1000,1_000_001):
+#     total = total + num
 
-print(total)
-
-
+# print(total)
 
 
 # for i in range(3):
 #     print("a")
 
+
+total = 0
+for i in range(5):
+    n = int(input('enter a number: '))
+    total = total + n
+
+print(total)
