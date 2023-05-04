@@ -19,9 +19,35 @@
 #     print("a")
 
 
+# total = 0
+# for i in range(5):
+#     n = int(input('enter a number: '))
+#     total = total + n
+
+# print(total)
+##################################################
+# total = 0
+# i = 0
+
+# while i < 5:
+#     n = int(input('enter a number: '))
+#     total += n
+#     i += 1
+
+# print("total is :", total)
+
+# print(5 % 2)
+
+#  برنامه ای بنویسید که پنج عدد از وروید دریافت نماید و حاصلجمع اعداد 
+# زوج وارد شده را پر ینت کند
+
 total = 0
 for i in range(5):
     n = int(input('enter a number: '))
-    total = total + n
+    if n % 2 == 0:
+        total += n
 
-print(total)
+print("sum of even number : ", total)
+
+# برنامه بالا را با حلقه وایل انجام دهید
+
