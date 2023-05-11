@@ -8,12 +8,14 @@
 #     print(numbers[i])
 #     i = i + 1
 
-string = 'python'
-for s in string:
-    print(s)
+# string = 'python'
+# for s in string:
+#     print(s)
 # با کمک
-range
+# range
+# len
 #  کاراکترهای رشته بالا را پرینت نمائید
 
 # برنامه ای بنویسید که نام کاربر را از ورودی دریافت نماید
 # و کارکترهای آنرا با کمک حلقه فور و نیز وایل پرینت نماید.
+print('________________________')
