@@ -5,18 +5,18 @@ pen.shape('turtle')
 pen.color('brown', 'orange')
 pen.shapesize(2)
 pen.pensize(9)
-pen.seth(90)
+pen.seth(60)
 
-pen.forward(100)
-pen2 = pen.clone()
-pen.seth(0)
-pen2.setheading(180)
 
-for i in range(200):
-    pen.left(1)
-    pen2.right(1)
-    pen.forward(1)
-    pen2.forward(1)
+# pen2 = pen.clone()
+# pen.seth(0)
+# pen2.setheading(180)
+
+# for i in range(200):
+#     pen.left(1)
+#     pen2.right(1)
+#     pen.forward(1)
+#     pen2.forward(1)
 
 # pen.forward(100)
 # # pen.backward(100)
